@@ -1,11 +1,21 @@
-Contact Book GUI with Java.
+# **Contact Book GUI with Java**
 
-First, run AllContacts.java. Default contacts information will be visable. Default contacts information might be deleted or editted as well.
+## Information
 
-When add button clicked, Contact information window will appear. Fill the blanks and select person information. Then click "Add New Contact" button in order to add a new person to the contactbook.
-In order to delete a person information, just click the information in the contactbook and click the delete button.
-In order to edit a person's information, just click the information in the contactbook and click the edit button. Then, contact information window will appear with that person's data. Edit the information you want, then click "Update Contack" button.
+In this project, designed and implemented a Java program that simulates a Contact Book Application with Graphical User Interface.
 
-Necessary .jpg files are added to the project. Download and locate them somewhere in your computer. Please change the locations in ContactBook.java lines 120, 125, 129, 133 with the correct locations of images on your computer.
+## How To Run
 
-Respects.
+To run this program perfectly, please follow the descriptions.
+
+- First, run AllContacts.java. Default contact information will be visible. Default contact information might be deleted or edited as well.
+
+- When you click the add button, the contact information window will appear. Fill in the blanks and select a person's information. Then click the "Add New Contact" button to add a new person to the contact book.
+
+- To delete a person's information, click the information in the contact book and then click the delete button.
+
+- To edit a person's information, click the information in the contact book and click the edit button. Then, the contact information window will appear with that person's data. Edit the information you want, then click the "Update Contact" button.
+
+* Required ".jpg" files have been uploaded to the project. Download and locate them somewhere on your computer. Please change the addresses in ContactBook.java lines 120, 125, 129, and 133 with the correct location of the images on your computer.
+
+**Respects.**
